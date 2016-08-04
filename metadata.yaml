@@ -1,0 +1,30 @@
+_repo: A-Tale-of-Three-Lions_2729
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Haggard, H. Rider (Henry Rider)
+    aliases:
+    - Haggard, Rider
+    - Haggard, Henry Rider
+    birthdate: 1856
+    deathdate: 1925
+    gutenberg_agent_id: '365'
+    url: http://www.gutenberg.org/2009/agents/365
+    wikipedia: http://en.wikipedia.org/wiki/H._Rider_Haggard
+description: ''
+gutenberg_issued: '2001-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2729'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Hunting guides -- Fiction'
+- !lcsh 'Africa -- Fiction'
+- !lcsh 'Quatermain, Allan (Fictitious character) -- Fiction'
+- GITenberg
+title: A Tale of Three Lions
+url: http://www.gutenberg.org/ebooks/2729
